@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "app": "PY影视壳",
+  "enabled": true,
+  "version": "20260810-01",
+  "password_sha256": "725d712e4d742096a1b7104d5ac72fd1a0047698ebbd74ecf85a24f396747535",
+  "message": "请输入访问密码",
+  "updated_at": "2026-08-10T00:17:40+08:00"
+}
