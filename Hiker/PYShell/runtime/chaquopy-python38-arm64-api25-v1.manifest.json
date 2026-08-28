@@ -1,0 +1,65 @@
+{
+  "abis": [
+    "arm64-v8a"
+  ],
+  "bundle": {
+    "file": "chaquopy-python38-arm64-api25-v1.zip",
+    "sha256": "8c593da639d642a594ba16b1a8a37f1ef62ca5d8a0a6c4d7210899920a9d0d53",
+    "size": 16438757
+  },
+  "files": [
+    {
+      "path": "chaquopy.apk",
+      "sha256": "42922e3506604057b890b72b216a719eecd786e78ce0c593fd4cc02c91856226",
+      "size": 13654057
+    },
+    {
+      "path": "classes.dex",
+      "sha256": "5d054664b3ec9b44b841afbd6392d03656ac2132e6d31ecd885261ec0c436053",
+      "size": 35272
+    },
+    {
+      "path": "arm64-v8a/libchaquopy_java.so",
+      "sha256": "92e9c1f2841e10053055001b886c4ebd7580e2a6aa9dfb2356f2e988091d5940",
+      "size": 159824
+    },
+    {
+      "path": "arm64-v8a/libcrypto_chaquopy.so",
+      "sha256": "fe59dede7bb351e2434b3bb1fd9919369cbdd2319789c014bc1196553c49203b",
+      "size": 3688
+    },
+    {
+      "path": "arm64-v8a/libcrypto_python.so",
+      "sha256": "cf0f9e1b740c069f0e9bf54bb3f9f01c651cd26cb74117f934265ab81a9133fa",
+      "size": 2355168
+    },
+    {
+      "path": "arm64-v8a/libpython3.8.so",
+      "sha256": "deade80a987c4f178d66f85e30d3da6cb4bf186ec52ef82ac47e44bf2cc50bd2",
+      "size": 3255616
+    },
+    {
+      "path": "arm64-v8a/libsqlite3_chaquopy.so",
+      "sha256": "97aa5e152385e1d60e81c85d321a869df08a6179d308cb92c33f1906eeb9bb6f",
+      "size": 3688
+    },
+    {
+      "path": "arm64-v8a/libsqlite3_python.so",
+      "sha256": "fa355dda67c86b62f67026b7b5a8ec17732ee30e9e8280b86362b4e2a886548b",
+      "size": 1178920
+    },
+    {
+      "path": "arm64-v8a/libssl_chaquopy.so",
+      "sha256": "4479c6c88ed634593fc1cae9c015cae7d8ef61b3b7e90143bfbb501ce3292a3f",
+      "size": 3688
+    },
+    {
+      "path": "arm64-v8a/libssl_python.so",
+      "sha256": "5809bf914caa387c23b132a2a71e2edab0b2afd2fb92cae454a1a3ae296c6040",
+      "size": 549488
+    }
+  ],
+  "minAndroidApi": 25,
+  "python": "3.8",
+  "version": "chaquopy-python38-arm64-api25-v1"
+}
