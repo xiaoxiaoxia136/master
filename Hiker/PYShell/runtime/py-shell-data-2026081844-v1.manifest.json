@@ -1,0 +1,335 @@
+{
+  "schema": 1,
+  "version": "py-shell-data-2026081844-v1",
+  "ruleVersion": 2026081844,
+  "manifestFile": "py-shell-data-2026081844-v1.manifest.json",
+  "bundle": {
+    "file": "py-shell-data-2026081844-v1.zip",
+    "size": 1769280,
+    "sha256": "95354d21f3c42a4e461e8b4c865ccf8c615d9064e5b866f568fa75791f4e3e52"
+  },
+  "files": [
+    {
+      "path": "assets/history.png",
+      "size": 3751,
+      "sha256": "813824dafc62b709510590407c2be19335e5fd67b733d010af4eb45b4bb79778"
+    },
+    {
+      "path": "assets/history_v116.png",
+      "size": 12261,
+      "sha256": "c142371c5f66e7ee0f59d17f156b357810db25140a625826ef0d632162404307"
+    },
+    {
+      "path": "assets/import_py.png",
+      "size": 2054,
+      "sha256": "4bbbfd3f3bae4b42ebd089e845a477ccb3c77a1626d3c5a61865fb7527973486"
+    },
+    {
+      "path": "assets/import_v116.png",
+      "size": 5656,
+      "sha256": "a4e64ab3c65f602947314d8a6ccff193b13ad92107727391c0a9ea4acd6a8d6d"
+    },
+    {
+      "path": "assets/py_shell_icon_1024.png",
+      "size": 999272,
+      "sha256": "2f8f8798fff9360307677e93900a3792f0444ae8a4d0828a4e07fcbda79a5d9d"
+    },
+    {
+      "path": "assets/py_shell_icon_512.png",
+      "size": 297443,
+      "sha256": "82f09fe650f6168b0fe15d70f727a1d84d02d9e7b2deb852c9a3daacacc610df"
+    },
+    {
+      "path": "assets/reload.png",
+      "size": 2887,
+      "sha256": "eda94f66f046e54194150c793c2f66cbe97d5c140f3437ea2852cf4095369604"
+    },
+    {
+      "path": "assets/reload_v116.png",
+      "size": 9813,
+      "sha256": "78d1ff78722bf4cd755e34d07222bd41999f4244c2e3641c627e4e71d3297f14"
+    },
+    {
+      "path": "assets/settings.png",
+      "size": 1027,
+      "sha256": "f068b00bd4f0649491d66c3bdc2ae1ccb9f505f91041f4e0a8d76811070ea76f"
+    },
+    {
+      "path": "assets/settings_v116.png",
+      "size": 18651,
+      "sha256": "bd154945229219e7deb4a9a3c8bdb03ea926b2336a6a8224ed7d955b0eb1bfe5"
+    },
+    {
+      "path": "assets/video_source.png",
+      "size": 2009,
+      "sha256": "b8e563716bde84d9d0a67ea7f41cf8326f94b9e8c91686b8bbb7a6f9d319e344"
+    },
+    {
+      "path": "assets/video_source_v116.png",
+      "size": 5589,
+      "sha256": "867f61c7468ad86f0a49483958aeb9733849afd11c83c5eea59c9ead53e07df0"
+    },
+    {
+      "path": "libs/hiker_pop_883.js",
+      "size": 56939,
+      "sha256": "0cf062e41810dba4a005084a9f12121f2f48ffd9649f4448030e2c196c879e87"
+    },
+    {
+      "path": "runtime/PythonHiker.js",
+      "size": 34331,
+      "sha256": "ddca3bbb1e7a3e3cdecef5b2f836c74cc27ef27071b44a8aa435d39e55abf0cc"
+    },
+    {
+      "path": "runtime/drpy/-ú¦Õ.js",
+      "size": 23852,
+      "sha256": "cee51a2f0d9086a6e31b3755ba92f097ed69839ee5fafa405fd0ad691dbfa588"
+    },
+    {
+      "path": "runtime/drpy/drpy2.js",
+      "size": 148502,
+      "sha256": "3d810637cc01e9d857a75fbac81e1a909114a13d5f49c675e9007777ce7968f8"
+    },
+    {
+      "path": "runtime/drpy/external.js",
+      "size": 3974,
+      "sha256": "2f20ff4d9ac314539933462e15b720f2490d8437c12d74322a3ca5bfe3a12ca0"
+    },
+    {
+      "path": "runtime/drpy/gbk.js",
+      "size": 56258,
+      "sha256": "f5754f4987cb2d8ef2910310e6269b60677c8f921f27a2fc8e8b840c1821f88e"
+    },
+    {
+      "path": "runtime/drpy/gm_system.js",
+      "size": 6987,
+      "sha256": "903bf8068d9c27ff42b0a374eb6d5922b0b08e61bd6c1c8bb7fa20028109bac5"
+    },
+    {
+      "path": "runtime/drpy/jinja.min.js",
+      "size": 8589,
+      "sha256": "e9068ab783f5ed5947e162a6141e676414ca7109b5e23a0144791732e52920a0"
+    },
+    {
+      "path": "runtime/drpy/jsencrypt.js",
+      "size": 217423,
+      "sha256": "dfba3a7905507484399622e0938cd5462a44c913450927ea8c3eb760d57660dd"
+    },
+    {
+      "path": "runtime/drpy/json5.js",
+      "size": 58694,
+      "sha256": "e0c0d4cca8bc1ee39687f39e9d09cbac9ec95476ced0a7d9025d3f82c0a74844"
+    },
+    {
+      "path": "runtime/drpy/jsonpathplus.min.js",
+      "size": 33161,
+      "sha256": "f6ed124c5ae9126499176a2a523dfb2acc9aacfa7521ae15f5ca8f0fff0aa3a3"
+    },
+    {
+      "path": "runtime/drpy/node-rsa.js",
+      "size": 209135,
+      "sha256": "891b65119a37f78cbecaefe7d51fd6d908bdd5854d2d543b3a8ed2f47cf540a3"
+    },
+    {
+      "path": "runtime/drpy/pako.min.js",
+      "size": 45987,
+      "sha256": "988778d9429a189cabe5ac0e22ff0ecb9c025973ddbe9cd516b9e9c83c79ad0f"
+    },
+    {
+      "path": "runtime/libs_py/Cryptodome/__init__.py",
+      "size": 104,
+      "sha256": "91f473b6ead9ec3e79287d9fe9021d9136cda45d70919cb1511e7b6c4d834192"
+    },
+    {
+      "path": "runtime/libs_py/app.py",
+      "size": 23880,
+      "sha256": "5702905d87dc01d14dacd17c9b175502b78e7bb864cc5c4a211580d023f6584a"
+    },
+    {
+      "path": "runtime/libs_py/base/hiker.py",
+      "size": 1674,
+      "sha256": "0c0935059574dee71eaaafa22b606a5e27df588d35f7b8a433da639bca6c1cc3"
+    },
+    {
+      "path": "runtime/libs_py/base/hikerPop.py",
+      "size": 5398,
+      "sha256": "dab346f0b8c09f6a9d4fb3801bb95e74470c6b5451ba695be1487d2c42964216"
+    },
+    {
+      "path": "runtime/libs_py/base/htmlParser.py",
+      "size": 14433,
+      "sha256": "6ea56445d2a0dba99c0934b546d3fe62ae1122a41f11246fa74ed88a95b4585f"
+    },
+    {
+      "path": "runtime/libs_py/base/loader.py",
+      "size": 1095,
+      "sha256": "412bf6a34cea83b6f55489e38143988b8fb2c9ded516bbd678adb761096df724"
+    },
+    {
+      "path": "runtime/libs_py/base/spider.py",
+      "size": 41198,
+      "sha256": "e606d1f01707f5ec3b3f5e15bbfd30de7db0eb17f80e84d79be0e404daeb6b2f"
+    },
+    {
+      "path": "runtime/libs_py/base_spider.py",
+      "size": 14946,
+      "sha256": "18537e459de71e6a7ec25c57ba45bf8b3d496997b52556d32a5cd496a5817886"
+    },
+    {
+      "path": "runtime/libs_py/source_compat.py",
+      "size": 13235,
+      "sha256": "b477185434af18d7297ecef6accfac8bfab5082b3e2cd92c3f89a375ef449fe2"
+    },
+    {
+      "path": "runtime/libs_py/t4/__init__.py",
+      "size": 2767,
+      "sha256": "b186d55df8015b7872187660ecea803058f3fd761a2113f81f30dbe84ce02626"
+    },
+    {
+      "path": "runtime/libs_py/t4/base/__init__.py",
+      "size": 76,
+      "sha256": "d58d35495537e25857a437fbc7c5c7622c5293aabaf3e3104a808565bacc8eed"
+    },
+    {
+      "path": "runtime/libs_py/t4/base/spider.py",
+      "size": 534,
+      "sha256": "62a3b98822fda380d82224d36e5c31ae458c901bc37c3df3083408f633b54009"
+    },
+    {
+      "path": "subpage/category.js",
+      "size": 4617,
+      "sha256": "ff6778d2b51cc7a83f0ae6b4c3bf06e8a30d26a0e55de620cce016ee78c5b6a3"
+    },
+    {
+      "path": "subpage/config_import.js",
+      "size": 3289,
+      "sha256": "92a2ccd638b600a77383c191fe1bf116bed486f0a25151d9312eef7aa6f06edf"
+    },
+    {
+      "path": "subpage/config_lines.js",
+      "size": 14487,
+      "sha256": "b7af70f1fe476453dcb14fa21c32f59da1ba0eb82ae7263729f2c84a7604ad19"
+    },
+    {
+      "path": "subpage/config_popup.js",
+      "size": 6642,
+      "sha256": "ea03b1f9cec8adf5e710f56d792cc766bc7ac9b360a3a2b7d9a3d72d72f54660"
+    },
+    {
+      "path": "subpage/config_popup_v1844.js",
+      "size": 6642,
+      "sha256": "ea03b1f9cec8adf5e710f56d792cc766bc7ac9b360a3a2b7d9a3d72d72f54660"
+    },
+    {
+      "path": "subpage/detail.js",
+      "size": 19116,
+      "sha256": "b1eb5aa3c699ebf74adb5b243e08d4cffc9b3c47d94663e20d323b5e25f0b7ac"
+    },
+    {
+      "path": "subpage/external_runtime.js",
+      "size": 12805,
+      "sha256": "702d79b170c3b85d15cad15ac0ce617af3a6eca9924f0d043cb9e26c4786d6af"
+    },
+    {
+      "path": "subpage/folder_picker.js",
+      "size": 4804,
+      "sha256": "a861a4f112436e4656f3b0d3cd470e2f1ed5da5661a86be555cc05217abd48b7"
+    },
+    {
+      "path": "subpage/gate.js",
+      "size": 9220,
+      "sha256": "929795a447c9c18e873cb0e5543303211a8b9b0579ba1f9a0079477db6400052"
+    },
+    {
+      "path": "subpage/history.js",
+      "size": 7469,
+      "sha256": "979e383b99931c9c68375f03b884a45bd0984bc395a2efc11d5913d83395125c"
+    },
+    {
+      "path": "subpage/interface_manager.js",
+      "size": 795,
+      "sha256": "d4bb55db3db034859eb50abc11ff646c1913bcabcb42052480211f9ac7b84fd7"
+    },
+    {
+      "path": "subpage/legacy_compat.js",
+      "size": 9103,
+      "sha256": "1b4e06561123493c5ad51158cc8b3617ef0b0f88a7e459c518a1eac56a01a9d0"
+    },
+    {
+      "path": "subpage/live.js",
+      "size": 18126,
+      "sha256": "fa0f528d1926d2ceaf548830291e09953b8c5a8d0b9858c080bd7b9e58d44022"
+    },
+    {
+      "path": "subpage/live_manager.js",
+      "size": 16022,
+      "sha256": "3e49842df55e5a1d087fadbdb1659a05808f0da09efb01dda9caeef294a23b8b"
+    },
+    {
+      "path": "subpage/live_parse.js",
+      "size": 7618,
+      "sha256": "2ce1a6a3a8b73bf01543f33a953e75813045caa897cedbc587083b6fb7dcb106"
+    },
+    {
+      "path": "subpage/main.js",
+      "size": 19628,
+      "sha256": "d417869598624d3cf04426dde7269ee8f1aed5a61b12c3ce9d199d1fd23bbdc3"
+    },
+    {
+      "path": "subpage/main_actions.js",
+      "size": 17702,
+      "sha256": "7f1055f8fb7df7ad54bcf446b7b4291bf8bf7f6b34a8ac145b059eee8354785c"
+    },
+    {
+      "path": "subpage/py_core.js",
+      "size": 244347,
+      "sha256": "6aaebfd3f855cbdef9db77dfdf429fb8be7eb2e75e3bd44ea8c2917573ae4471"
+    },
+    {
+      "path": "subpage/py_manager_hub.js",
+      "size": 1039,
+      "sha256": "24e91d3f1940067e3a06483efb8a5fae216847974c24b3714a6033115dbc5ec5"
+    },
+    {
+      "path": "subpage/reader.js",
+      "size": 9054,
+      "sha256": "c55bd09780623fac485f101258d06b981e2cfe4d8ec719cc3301a83cf44bef87"
+    },
+    {
+      "path": "subpage/search.js",
+      "size": 12816,
+      "sha256": "4ea5ba5ad332ee5cbcc0653a97997784f1a02ed594039182a75facbd18f396e5"
+    },
+    {
+      "path": "subpage/settings.js",
+      "size": 3306,
+      "sha256": "8b6edd5457768e9b27dd663e76f14eff980582391950c852d4fbe7efa766427f"
+    },
+    {
+      "path": "subpage/source_manager.js",
+      "size": 38927,
+      "sha256": "13dda96fd3a52e45db002fd01ac9f53e3fb28caee25e915ce12688f3bddef241"
+    },
+    {
+      "path": "subpage/source_popup.js",
+      "size": 14527,
+      "sha256": "c7530b9e468cd1e0eea08aff8bc29a009abfad02d2dc9cda8627c741509af9a3"
+    },
+    {
+      "path": "subpage/source_popup_v1844.js",
+      "size": 14527,
+      "sha256": "c7530b9e468cd1e0eea08aff8bc29a009abfad02d2dc9cda8627c741509af9a3"
+    },
+    {
+      "path": "subpage/sources.js",
+      "size": 6266,
+      "sha256": "17acf9968c8fc7c835b98fe0081b3abd8c77ca65d240491c97f36672dfbcc07e"
+    }
+  ],
+  "preservedPaths": [
+    "active_source.json",
+    "cache/",
+    "sources/",
+    "category_prefetch_*.json",
+    "home_filters_2026081844_*.json"
+  ]
+}
