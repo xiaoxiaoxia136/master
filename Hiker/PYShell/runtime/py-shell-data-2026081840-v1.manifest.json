@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "version": "py-shell-data-2026081840-v1",
+  "ruleVersion": 2026081840,
   "manifestFile": "py-shell-data-2026081840-v1.manifest.json",
   "bundle": {
     "file": "py-shell-data-2026081840-v1.zip",
@@ -327,6 +328,8 @@
   "preservedPaths": [
     "active_source.json",
     "cache/",
-    "sources/"
+    "sources/",
+    "category_prefetch_*.json",
+    "home_filters_2026081840_*.json"
   ]
 }
